@@ -4,7 +4,7 @@
 ---
 
 ### 💫 About Me  
-👋 I’m **Kirtan Chitalia** — an **AI/ML Engineer** and **Marketing Head**, blending technology with creativity.  
+👋 I’m **Kirtan Chitalia** — an **AI/ML Engineer** , blending technology with creativity.  
 🎓 Passionate about **GANs**, **CNNs**, and **real-world AI applications** like low-light and lunar image enhancement.  
 🌄 When I’m not coding, I’m probably **dancing**, **gaming**, or **exploring the mountains**.  
 
