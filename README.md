@@ -70,10 +70,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Kirtan-Chitalia/Kirtan-Chitalia/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ⭐ **“Code with curiosity, build with purpose, and live with passion.”**
