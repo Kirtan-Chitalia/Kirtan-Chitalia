@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:00CED1&height=220&text=Hey%20there!%20I'm%20Kirtan%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20ML%20Engineer%20%7C20%7C%20Explorer&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:00CED1&height=220&text=Hey%20there!%20I'm%20Kirtan%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20ML%20Engineer%20Explorer&descAlignY=60)
 
 ---
 
