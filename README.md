@@ -8,9 +8,6 @@
 🎓 Passionate about **GANs**, **CNNs**, and **real-world AI applications** like low-light and lunar image enhancement.  
 🌄 When I’m not coding, I’m probably **dancing**, **gaming**, or **exploring the mountains**.  
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" width="400" alt="Kirtan Chitalia - Explorer Vibes" style="border-radius:15px;"/>
-</p>
 
 ---
 
