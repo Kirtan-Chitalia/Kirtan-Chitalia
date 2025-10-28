@@ -65,7 +65,7 @@
 ### ✨ Fun Facts  
 
 🎮 Gamer at heart | 💃 Dancer by soul | 🌍 Explorer by nature  
-💬 Ask me about **AI/ML**, **Music** ,   
+💬 Ask me about **AI/ML**, **Music**   
 🎧 Music fuels my code sessions!
 
 ---
