@@ -8,13 +8,14 @@ AI/ML Engineer passionate about building real-world intelligent systems.
 - 🌑 Lunar PSR Image Enhancement (CNN + GAN)
 - 🌙 Low-Light Image Enhancement (LoL Dataset)
 - 🎬 Movie Recommendation System
+- ➕Math-problem-solver
 
 ---
 
 ### 🛠 Tech
 Python • ML • PyTorch • OpenCV  
 C# • JavaScript • HTML • CSS  
-MySQL • Git
+MySQL • Git 
 
 ---
 
