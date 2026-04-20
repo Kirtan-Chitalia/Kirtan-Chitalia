@@ -12,7 +12,7 @@ AI/ML Engineer passionate about building real-world intelligent systems.
 
 ### 🛠 Tech
 Python • ML • PyTorch • OpenCV  
-C# • JavaScript • HTML • CSS  
+C# • JavaScript • HTML • CSS • Langchain  
 MySQL • Git • LLM • Agnetic AI 
 
 ---
